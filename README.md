@@ -35,7 +35,7 @@ The two tables are connected using **Order ID**.
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/adrijaduttabakshi/E-Commerce-Sales-Dashboard/blob/main/snapshot.png
 
 ## 🎯 Purpose
 
