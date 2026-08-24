@@ -1,0 +1,61 @@
+Order ID,Category,Sub-Category,Amount,Profit,Quantity,Payment Mode
+ORD001,Electronics,Mobile,14999,1800,1,UPI
+ORD002,Fashion,Clothing,3600,620,2,Card
+ORD003,Electronics,Laptop,52999,-4200,1,Card
+ORD004,Beauty,Skincare,2100,720,3,UPI
+ORD005,Home & Kitchen,Appliances,4500,-480,1,Cash
+ORD006,Fashion,Footwear,3200,-350,1,UPI
+ORD007,Electronics,Headphones,5900,950,2,Card
+ORD008,Books,Fiction,1800,650,4,UPI
+ORD009,Home & Kitchen,Furniture,7200,850,1,Card
+ORD010,Beauty,Makeup,2400,780,3,UPI
+ORD011,Electronics,Smartwatch,2999,540,1,UPI
+ORD012,Fashion,Saree,4200,700,2,Card
+ORD013,Electronics,TV,38999,-2100,1,Card
+ORD014,Books,Academic,2400,850,2,UPI
+ORD015,Home & Kitchen,Appliances,6800,720,1,Card
+ORD016,Fashion,Handbags,5500,620,1,UPI
+ORD017,Electronics,Tablet,18999,-1300,1,Net Banking
+ORD018,Beauty,Haircare,3600,720,2,UPI
+ORD019,Fashion,Clothing,3300,580,3,Cash
+ORD020,Books,Fiction,2250,900,5,UPI
+ORD021,Electronics,Mobile,27999,1800,1,Card
+ORD022,Home & Kitchen,Decor,2700,690,3,UPI
+ORD023,Fashion,Footwear,4600,540,2,Card
+ORD024,Beauty,Skincare,3200,920,4,UPI
+ORD025,Electronics,Keyboard,4200,700,1,UPI
+ORD026,Home & Kitchen,Furniture,8500,-250,1,Card
+ORD027,Electronics,Laptop,61999,-1200,1,Net Banking
+ORD028,Fashion,Clothing,2700,480,3,UPI
+ORD029,Electronics,Camera,45999,2300,1,Card
+ORD030,Beauty,Makeup,2800,740,2,UPI
+ORD031,Home & Kitchen,Appliances,9200,820,1,Card
+ORD032,Books,Academic,3600,-1400,3,UPI
+ORD033,Fashion,Watches,4800,320,1,Card
+ORD034,Electronics,Earbuds,2800,520,2,UPI
+ORD035,Home & Kitchen,Furniture,6400,750,1,Card
+ORD036,Fashion,Clothing,3000,430,2,UPI
+ORD037,Electronics,Monitor,12999,980,1,Net Banking
+ORD038,Beauty,Skincare,2800,860,4,UPI
+ORD039,Electronics,Mobile,31998,1600,2,Card
+ORD040,Fashion,Footwear,2400,500,2,UPI
+ORD041,Home & Kitchen,Appliances,32999,-850,1,Card
+ORD042,Books,Fiction,2600,1050,4,UPI
+ORD043,Electronics,Smartwatch,12999,850,1,Card
+ORD044,Fashion,Handbags,3600,490,2,UPI
+ORD045,Electronics,Laptop,48999,-600,1,Net Banking
+ORD046,Beauty,Haircare,4200,980,2,UPI
+ORD047,Fashion,Clothing,3200,620,4,Card
+ORD048,Home & Kitchen,Decor,2600,580,2,UPI
+ORD049,Electronics,Headphones,5999,820,1,Card
+ORD050,Beauty,Makeup,3300,760,3,UPI
+ORD051,Home & Kitchen,Appliances,28999,-950,1,Card
+ORD052,Fashion,Saree,5800,850,1,UPI
+ORD053,Electronics,Tablet,24999,1600,1,Net Banking
+ORD054,Books,Academic,3000,-1100,2,UPI
+ORD055,Fashion,Footwear,5200,420,2,Card
+ORD056,Beauty,Skincare,3600,920,3,UPI
+ORD057,Electronics,TV,54999,-2400,1,Card
+ORD058,Home & Kitchen,Decor,3400,720,2,UPI
+ORD059,Electronics,Camera,67999,-1500,1,Card
+ORD060,Fashion,Clothing,4400,780,2,UPI
